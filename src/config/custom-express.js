@@ -1,3 +1,6 @@
+require('marko/node-require').install();
+require('marko/express');
+
 // retorna uma funçao
 const express = require('express');
 const app = express();
