@@ -65,3 +65,6 @@ typings/
 
 #sqlite
 data.db
+
+#visual code studio
+.vscode/
