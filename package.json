@@ -7,6 +7,10 @@
     "test": "standard",
     "start": "nodemon server.js --ignore *.marko.js"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/flaviosolci/node-introducao.git"
+  },
   "author": "Flavio Solci",
   "license": "ISC",
   "dependencies": {
